@@ -1,6 +1,6 @@
 # Renovate Helm Releases
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A script / action that configures [Flux2](https://github.com/fluxcd/flux2) `HelmRelease`'s for automated updates using [Renovate](https://github.com/renovatebot/renovate).
@@ -99,6 +99,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/allenporter"><img src="https://avatars.githubusercontent.com/u/6026418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Allen Porter</b></sub></a><br /><a href="https://github.com/k8s-at-home/renovate-helm-releases/commits?author=allenporter" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/adtennant"><img src="https://avatars.githubusercontent.com/u/2420216?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Tennant</b></sub></a><br /><a href="https://github.com/k8s-at-home/renovate-helm-releases/commits?author=adtennant" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/angelnu"><img src="https://avatars.githubusercontent.com/u/4406403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Angel Nunez Mencias</b></sub></a><br /><a href="https://github.com/k8s-at-home/renovate-helm-releases/commits?author=angelnu" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jmmaloney4"><img src="https://avatars.githubusercontent.com/u/5781547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Maloney</b></sub></a><br /><a href="https://github.com/k8s-at-home/renovate-helm-releases/commits?author=jmmaloney4" title="Code">💻</a></td>
   </tr>
 </table>
 
